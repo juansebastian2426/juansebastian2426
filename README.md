@@ -19,3 +19,4 @@ while(true){
   console.log('Hi!, I'm TuttoDev and I love coding')
 }
 ```
+[![TuttoDev github stats](https://github-readme-stats.vercel.app/api?username=juansebastian2426)](https://github.com/anuraghazra/github-readme-stats)
