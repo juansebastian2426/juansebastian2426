@@ -1,4 +1,4 @@
-### Hi DEVtero!, I'm TuttoDev 👋
+### Hi DEVtero!, I'm TuttoDev 👋 remember 👉 think, act, believe and never give up
 
 ```js
 enum language = {
